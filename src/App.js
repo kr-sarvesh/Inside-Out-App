@@ -7,7 +7,12 @@ const emojiDictionary = {
   '😲': 'disbelief',
   '😒': 'annoyance',
   '❤️': 'love',
-  '🥡': 'takeout-box'
+  '🥡': 'takeout-box',
+  '😉': 'Winking Face',
+  '🤩': 'Star-Stuck',
+  '😘': 'Face Blowing a Kiss',
+  '🤣': 'Rolling on the Floor Laughing',
+  '😛': 'Face with Tongue'
 };
 
 const msg = 'INSIDE-OUT';
