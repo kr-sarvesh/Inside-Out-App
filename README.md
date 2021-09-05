@@ -1,3 +1,2 @@
-# react-xrsdfo
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-xrsdfo)
+# Emoji Interpreter App
+This app consists of various collections of emojis having different expressions
